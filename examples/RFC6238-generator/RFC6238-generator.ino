@@ -20,7 +20,7 @@
 #include <WebServer.h>
 #include <lwip/apps/sntp.h>
 
-#include <TOTP-RC6236-generator.hpp>
+#include <TOTP-generator.hpp>
 
 #ifndef WIFI_NETWORK
 #define WIFI_NETWORK "mySecretWiFiPassword"
